@@ -1,0 +1,15 @@
+Matlab Function
+
+bode
+nyquist
+nyquist1
+margin
+allmargin
+pade
+lead
+notch
+tf2ss
+loopsyn
+place
+frdfit
+frd
