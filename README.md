@@ -3,3 +3,4 @@ Robust control techniques are used in various industries, from hard disk drives 
 This course will cover robust control of multi-input, multi-output (MIMO) linear time invarient systems. Topics will include properties of MIMO systems, uncertainty and robustness, H infinity optimal control, mu synthesis, and linear matrix inequality approaches to optimal control.
 Prerequisiste Knowledge:
 Students should have a strong background in both classical (frequency domain) and modern (state space) approaches to control. Specifically, students should be familiar with Bode and Nyquist plots, loop shaping, controllability and observability, state feedback control and observer design, and similarity transformations.
+All codes are original.
